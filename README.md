@@ -1,4 +1,4 @@
 # Machine-Learning
 
 
-Machine learning exercises.
+Machine learning and Deep learning exercises.
